@@ -9,7 +9,14 @@ namespace consoleApp
             Console.WriteLine("Hello World!");
             int myFavoriteNumber = 13;
             string myFavoriteColor = "blue";
-            Console.WriteLine(myFavoriteColor);
+             if(myFavoriteNumber < 11) 
+             {
+Console.WriteLine(myFavoriteColor);
+             }
+             else 
+             {
+                 Console.WriteLine("not today pardner");
+             }
 
         }
     }
