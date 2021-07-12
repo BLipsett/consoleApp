@@ -1,0 +1,15 @@
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/consoleApp.deps.json
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/consoleApp.runtimeconfig.json
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/consoleApp.runtimeconfig.dev.json
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/consoleApp.dll
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/ref/consoleApp.dll
+/Users/brianlipsett/source/codeworks/consoleApp/bin/Debug/net5.0/consoleApp.pdb
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.csproj.AssemblyReference.cache
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.AssemblyInfoInputs.cache
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.AssemblyInfo.cs
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.dll
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/ref/consoleApp.dll
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.pdb
+/Users/brianlipsett/source/codeworks/consoleApp/obj/Debug/net5.0/consoleApp.genruntimeconfig.cache
